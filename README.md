@@ -5,7 +5,7 @@ Project aims to create JavaScript-Login-PAge within html , css and JavaScript.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[JavaScript-Login-PAge]()| Html Css Js |
+[JavaScript-Login-Page](https://muharremgem.github.io/JavaScript-Login-Page/)| Html Css Js |
 
 
 ## Problem Statement
@@ -16,9 +16,7 @@ Project aims to create JavaScript-Login-PAge within html , css and JavaScript.
 
 ## Project Skeleton 
 
-
-SASS_Food_House (folder)
-
+Login_page (folder)
 
 |----img
 
@@ -34,7 +32,7 @@ SASS_Food_House (folder)
 
 ## Objective
 
-Functionally create a SASS_Food_House as in the image above
+Functionally create a Login_page as in the image above
 
 ### At the end of the project, following topics are to be covered;
 
@@ -65,7 +63,7 @@ Functionally create a SASS_Food_House as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create SASS_Food_House
+- Step 3: Create Login_page
 
 >>Part-1 HTML Structure
 
@@ -74,7 +72,7 @@ Functionally create a SASS_Food_House as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a Scss (id="SASS_Food_House")
+	- Create a Scss (id="Login_page")
 	
 
 >>Part-2 CSS Structure
@@ -89,7 +87,7 @@ Functionally create a SASS_Food_House as in the image above
 
 ## Notes
 
-- You can use HTML, CSS and Sass to complete this project.
+- You can use HTML, CSSto complete this project.
 
 ## Resources
 

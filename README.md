@@ -26,45 +26,8 @@ SASS_Food_House (folder)
 
 |----index.html  
 
-|----dist
-|----css
+|----style.css
 
-	|---style.css
-	|---style.css.map
-  |---bootstrap-grid.css
-  
-|----base
-|----layout
-
-	
-
-|----sass
-
-	|---style.scss
-	
-		|--_mixins.scss
-		|--_variables.scss
-		
-	|---base
-		|--_reset.scss
-		
-		
-	|---components
-		|--_overlay.scss
-		|--_social_iconsscss
-		
-	|---layout
-    |--_navbar.scss
-    |--_about.scss
-    |--_menu.scss
-		|--_header.scss
-		|--_home.scss
-    |--_testimonials.scss
-		|--_projects.scss
- 	|---utilities
-     |--_helpers.scss
-     |--_variables.scss
-    
 
 
 ## Expected Outcome
